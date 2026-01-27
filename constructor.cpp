@@ -48,3 +48,13 @@ int main() {
 // 1. Default Constructor: Initializes an object without any parameters.
 // 2. Parameterized Constructor: Initializes an object with given parameters.
 // 3. Copy Constructor: Initializes an object by copying another object.
+
+
+//What is the use of constructors in C++?
+
+/*Constructors in C++ are special member functions that are 
+automatically called when an object of a class is created.
+They are used to initialize objects, allocate resources, 
+and set default values for member variables. Constructors
+help ensure that an object is in a valid state when it is created.
+*/ 
