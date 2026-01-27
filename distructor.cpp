@@ -4,10 +4,10 @@ using namespace std;
 //destructor syntax in C++
 class DestructorExample {
 public:
-    DestructorExample() {
+    DestructorExample() {   // this is a  constructor or not - yes it is
         cout << "Constructor called!" << endl;
     }
-    ~DestructorExample() {
+    ~DestructorExample() {  // this is used to delete the constructor - yes it i
         cout << "Destructor called!" << endl;
     }
 };
